@@ -39,7 +39,7 @@ To make it work properly on the Web platform, you need to add the `web_support.j
 
 ## Contributors ✨
 
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+Thanks goes to these wonderful people ✨✨:
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
@@ -152,7 +152,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/michalsrutek"><img src="https://avatars.githubusercontent.com/u/35694712?v=4?s=100" width="100px;" alt="Michal Šrůtek"/><br /><sub><b>Michal Šrůtek</b></sub></a><br /><a href="https://github.com/pichillilorenzo/flutter_inappwebview/commits?author=michalsrutek" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/daisukeueta"><img src="https://avatars.githubusercontent.com/u/122339799?v=4?s=100" width="100px;" alt="daisukeueta"/><br /><sub><b>daisukeueta</b></sub></a><br /><a href="https://github.com/pichillilorenzo/flutter_inappwebview/commits?author=daisukeueta" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/ryanhz"><img src="https://avatars.githubusercontent.com/u/1142612?v=4?s=100" width="100px;" alt="Ryan"/><br /><sub><b>Ryan</b></sub></a><br /><a href="https://github.com/pichillilorenzo/flutter_inappwebview/commits?author=ryanhz" title="Code">💻</a></td>
-    </tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/MrLightful"><img src="https://avatars.githubusercontent.com/u/14923964?v=4?s=100" width="100px;" alt="Roman"/><br /><sub><b>Roman</b></sub></a><br /><a href="https://github.com/arrrrny/zikzak_inappwebview/commits?author=MrLightful" title="Code">💻</a></td>
+      </tr>
   </tbody>
 </table>
 
