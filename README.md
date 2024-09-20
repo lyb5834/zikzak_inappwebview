@@ -6,7 +6,7 @@ This plugin is the fork of the original [flutter_inappwebview](https://pub.dev/p
 
 </div>
 
-## New Plugin with a new maintainer 1.x.x is OUT NOW!
+## ZikZak InAppWebview Plugin (Fork of Flutter InAppWebview) with a new maintainer 1.x.x is OUT NOW!
 
 ## Requirements
 
