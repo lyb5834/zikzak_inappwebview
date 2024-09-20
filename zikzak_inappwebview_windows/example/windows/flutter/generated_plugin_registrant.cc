@@ -6,7 +6,7 @@
 
 #include "generated_plugin_registrant.h"
 
-#include <zikzak_inappwebview_windows/zikzak_inappwebview_windows_plugin_c_api.h>
+#include <zikzak_inappwebview_windows/flutter_inappwebview_windows_plugin_c_api.h>
 
 void RegisterPlugins(flutter::PluginRegistry* registry) {
   FlutterInappwebviewWindowsPluginCApiRegisterWithRegistrar(
